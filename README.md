@@ -9,4 +9,4 @@ create a developer account on https://developer.twitter.com/ and fill in the fol
 
 `pip install -r requirements.txt`
 
-`streamlit app.py`
+`streamlit run app.py`
